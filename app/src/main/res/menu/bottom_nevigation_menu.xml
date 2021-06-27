@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/daily_tips"
+        android:icon="@drawable/ic_yoga"
+        android:title="@string/home"
+        app:showAsAction="withText" />
+
+    <item
+        android:id="@+id/ayurveda_tips"
+        android:icon="@drawable/ic_yoga"
+        android:title="Test1"
+        app:showAsAction="withText" />
+    <item
+        android:id="@+id/beauty_tips"
+        android:icon="@drawable/ic_yoga"
+        android:title="Test 2"
+        app:showAsAction="withText" />
+    <item
+        android:id="@+id/yoga_tips"
+        android:icon="@drawable/ic_yoga"
+        android:title="Test 3" />
+    <item
+        android:id="@+id/vastu_tips"
+        android:icon="@drawable/ic_yoga"
+        android:title="Test 4" />
+
+</menu>

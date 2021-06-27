@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#9E0C24</color>
+    <color name="colorPrimaryDark">#CC1D1D</color>
+    <color name="colorAccent">#5c5a5b</color>
+    <color name="colorFontGreen">#CC1D1D</color>
+    <color name="colorView">#707070</color>
+    <color name="colorone">#cccab5</color>
+    <color name="colorWhite">#ffffff</color>
+
+    <color name="colorActivated">#caeeff</color>
+    <color name="textPrimary">#000</color>
+    <color name="accent">#9E0C24</color>
+    <color name="colorHighlight">#9E0C24</color>
+    <color name="jet">#222222</color>
+    <color name="oil">#333333</color>
+    <color name="monsoon">#777777</color>
+    <color name="jumbo">#888888</color>
+    <color name="aluminum">#999999</color>
+    <color name="base">#AAAAAA</color>
+    <color name="iron">#CCCCCC</color>
+    <color name="red">#ed051c</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="normal">#ffffff</color>
+    <color name="itemselected">#0e529d</color>
+    <color name="genre">#0dead8</color>
+    <color name="year">#888888</color>
+    <color name="list_divider">#d9d9d9</color>
+    <color name="list_row_start_color">#0df6e3</color>
+    <color name="list_row_end_color">#898e8e</color>
+    <color name="list_row_hover_start_color">#ebeef0</color>
+    <color name="list_row_hover_end_color">#ebeef0</color>
+    <color name="green">#00FF33</color>
+    <color name="gray">#c4c1c1</color>
+
+    <color name="blue">#0d4d95</color>
+    <color name="blue_new">#ACD8E5</color>
+    <color name="blue_dark">#5C8EA7</color>
+    <color name="transparent">#00FFFFFF</color>
+    <color name="green_bottom">#197C54</color>
+    <color name="circle_fill_color">#2DBF81</color>
+    <color name="text_color">#f2f2f2</color>
+    <color name="login_bootom_color">#C0ffffff</color>
+    <color name="color_accent">#ffd400</color>
+    <color name="primary_dark">#E12929</color>
+
+    <color name="primary_darker">#CC1D1D</color>
+    <color name="button_color">#26A89E</color>
+    <color name="location_search_edit_color_bg">#2590D7</color>
+    <color name="bg_color">#1E90D0</color>
+    <color name="white_milk">#F5FAFD</color>
+    <color name="intro_splash_bg_color">#F2910E</color>
+    <color name="textcolorHeader">#069ECF</color>
+    <color name="textColorPrimary">#000000</color>
+    <color name="textColorSecondary">#A5A5A5</color>
+    <!--switch color-->
+    <color name="thumb_active">@color/colorPrimaryDark</color>
+    <color name="track_active">#66069ECF</color>
+    <color name="thumb_inactive">#A5A5A5</color>
+    <color name="track_inactive">#66A5A5A5</color>
+</resources>

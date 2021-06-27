@@ -1,0 +1,40 @@
+{
+  "formatVersion": 1,
+  "database": {
+    "version": 1,
+    "identityHash": "21bf1ecc82593494efd63891151d0d03",
+    "entities": [
+      {
+        "tableName": "health_pdf_table",
+        "createSql": "CREATE TABLE IF NOT EXISTS `${TABLE_NAME}` (`eBookName` TEXT NOT NULL, `eBookUrl` TEXT, PRIMARY KEY(`eBookName`))",
+        "fields": [
+          {
+            "fieldPath": "eBookName",
+            "columnName": "eBookName",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "eBookUrl",
+            "columnName": "eBookUrl",
+            "affinity": "TEXT",
+            "notNull": false
+          }
+        ],
+        "primaryKey": {
+          "columnNames": [
+            "eBookName"
+          ],
+          "autoGenerate": false
+        },
+        "indices": [],
+        "foreignKeys": []
+      }
+    ],
+    "views": [],
+    "setupQueries": [
+      "CREATE TABLE IF NOT EXISTS room_master_table (id INTEGER PRIMARY KEY,identity_hash TEXT)",
+      "INSERT OR REPLACE INTO room_master_table (id,identity_hash) VALUES(42, '21bf1ecc82593494efd63891151d0d03')"
+    ]
+  }
+}

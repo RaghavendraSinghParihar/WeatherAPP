@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">WeatherAppDemo</string>
+    <string name="LOGO">WeatherAppDemo</string>
+    <string name="skip_button">छोड़ें</string>
+    <string name="done_button">किया हुआ</string>
+    <string name="health_category">Test App</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="loading">Loading...</string>
+    <string name="ok">OK</string>
+    <string name="home">Home</string>
+    <string name="check_internet">Please Check Internet connections</string>
+    <string name="no_data_found_message">No data found</string>
+    <string name="test">Test</string>
+
+</resources>

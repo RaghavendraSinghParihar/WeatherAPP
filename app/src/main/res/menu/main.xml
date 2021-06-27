@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/ebook"
+        android:icon="@drawable/ic_yoga"
+        android:orderInCategory="100"
+        android:title=""
+        android:visible="false"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/notification"
+        android:icon="@drawable/ic_yoga"
+        android:orderInCategory="100"
+        android:title=""
+        android:visible="false"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/moreApp"
+        android:orderInCategory="100"
+        android:title="More App"
+        android:visible="false"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/feedBack"
+        android:orderInCategory="100"
+        android:title="Feedback"
+        android:visible="false"
+        app:showAsAction="never" />
+
+</menu>
